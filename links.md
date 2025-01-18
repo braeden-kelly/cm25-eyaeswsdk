@@ -1,0 +1,3 @@
+- https://www.nngroup.com/videos/journey-mapping-101/
+- https://ai-engineering-katas.github.io/ai-katas/
+- https://harrolee.github.io/codemash2025.html
