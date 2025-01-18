@@ -2,3 +2,4 @@
 - https://ai-engineering-katas.github.io/ai-katas/
 - https://harrolee.github.io/codemash2025.html
 - https://github.com/AI-Engineering-Katas/ai-katas
+- https://discord.com/channels/1127340805741359164/1327987354472022037
